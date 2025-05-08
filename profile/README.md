@@ -23,5 +23,5 @@ Various Python convenience packages:
 Various rust convenience crates:
 
 * [merge3-rs](https://github.com/breezy-team/merge3-rs) - Three-way merge
-* [patienceidff-rs](https://github.com/breezy-team/patiencediff-rs) - Implementation of Bram Cohen's patiencediff algorithm
+* [patiencediff-rs](https://github.com/breezy-team/patiencediff-rs) - Implementation of Bram Cohen's patiencediff algorithm
 * [patchkit-rs](https://github.com/breezy-team/patchkit-rs) - Utilities for working with patch files
